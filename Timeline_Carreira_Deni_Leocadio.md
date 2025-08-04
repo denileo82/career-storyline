@@ -1,47 +1,52 @@
 # Timeline da Carreira Profissional 
 
-**Deni Leocadio - Senior Software Engineer & Technology Leader**
+## 🏢 **Contexto Empresarial - ATOS SE**
 
-**Documento preparado para petição EB-2 National Interest Waiver**
+**Multinacional Francesa de Tecnologia e Serviços de TI**
+
+**Dados Corporativos:**
+- **Fundação:** 1988
+- **Sede Global:** Bezons, França
+- **Funcionários:** 120.000+ colaboradores mundialmente
+- **Presença Global:** 73+ países
+- **Receita Anual:** €13+ bilhões
+- **Listagem:** Empresa de capital aberto (Euronext Paris)
+- **Posição de Mercado:** Uma das maiores empresas europeias de consultoria tecnológica
+
+**Principais Serviços e Áreas de Atuação:**
+- **Consultoria em TI e Sistemas de Integração**
+- **Serviços de Cloud Computing e Cybersegurança**
+- **Transformação Digital e Modernização Tecnológica**
+- **Serviços Transacionais Hi-Tech**
+- **Gerenciamento de Infraestrutura de TI**
+- **Soluções Enterprise (SAP, Oracle, Microsoft)**
+
+**Contratos e Parcerias de Destaque:**
+- **Jogos Olímpicos:** Parceiro oficial de TI dos Jogos Olímpicos de Paris 2024
+- **UEFA:** Fornecedor oficial de serviços de TI para UEFA EURO 2024™ e UEFA Under-21 Championship 2025
+- **Governos e Setor Público:** Contratos com diversos governos europeus e organizações públicas
+- **Grandes Corporações:** Parcerias estratégicas com Fortune 500 e empresas globais
+
+**Importância Estratégica:**
+- **Líder Europeu** em transformação digital e serviços de TI
+- **Parceiro Tecnológico Oficial** dos maiores eventos esportivos mundiais
+- **Provedor Crítico** de infraestrutura tecnológica para governos e grandes corporações
+- **Inovador** em tecnologias emergentes (IA, Cloud, Cybersegurança)
 
 ---
 
-## 📋 Resumo Executivo
-
-Profissional de TI com **mais de 25 anos de experiência** em desenvolvimento de software, arquitetura de soluções e gestão de projetos tecnológicos. Especialista em sistemas distribuídos, cloud computing e engenharia de dados, com experiência internacional comprovada trabalhando remotamente do Brasil para empresas multinacionais na Europa e EUA.
-
-**Competências Principais:**
-- **Desenvolvimento Backend:** .NET (11 endorsements), C# (3 endorsements), Java (11 endorsements), Go Lang, Python
-- **Cloud Computing:** Azure, AWS Cloud Practitioner, Google Cloud Platform, Digital Ocean
-- **DevOps & Containerização:** Docker, Kubernetes
-- **Banco de Dados:** Microsoft SQL Server (14 endorsements), MySQL (11 endorsements), PostgreSQL, Oracle (4 endorsements)
-- **Frontend:** Angular, TypeScript, JavaScript (5 endorsements), HTML, CSS
-- **Metodologias:** Agile (Scrum), ITIL (13 endorsements), PMBoK, Six Sigma
-- **Arquitetura:** Microservices (1 endorsement), Distributed Systems, Solution Architecture, Enterprise Architecture
-- **Integração:** REST APIs, ESB Architecture, MuleSoft, RabbitMQ
-- **Ferramentas:** Git, SharePoint (10 endorsements), MS Reporting Services (6 endorsements)
-- **Gestão:** Project Management, IT Service Management (14 endorsements), Team Leadership (1 endorsement)
-- **Certificações:** PMP® Certified (PMI), Azure, AWS
-- **Idiomas:** Português (nativo), Inglês (profissional completo), Espanhol (intermediário)
-
----
-
-## 📅 Timeline Cronológica da Carreira
-
-### 💼 Experiência Profissional
-
-## **ATOS (2018-Presente)** | Trabalho remoto do Brasil para Europa  
+**ATOS (2018-Presente)** | Trabalho remoto do Brasil para Europa  
 - **Empresa Global:** ATOS com 120.000 funcionários mundialmente, atuação no setor global
-- **Grupo Seleto Global:** Trabalhando em grupo selecionado de profissionais com grande experiência e capacidade de resolução de problemas complexos a nivel Global, criando padrões para as RBUs (Region Business Units de 70+ paises)
+- **Grupo Seleto:** Profissionais de grande experiência e capacidade de resolução de problemas complexos
 - **Hierarquia Executiva:** Reporte direto para nível executivo abaixo do CTO, com reporte funcional direto ao CTO em projetos de Enterprise Architecture
-- **Headquarters França:** Trabalho direto e exclusivo com a sede na França
-- Gestão de arquitetura e ciclo de vida de sistemas para clientes europeus
-- Liderança e engajamento com equipes multiculturais (EUA, França, Romênia, Bélgica, Áustria, Alemanha, Espanha, Reino Unido, Índia)
+- **Headquarters França:** Trabalho direto com sede na França para operações europeias
+- Gestão de arquitetura e ciclo de vida de paisagem tecnológica para clientes europeus
+- Liderança de equipes multiculturais (EUA, França, Romênia, Bélgica, Áustria, Alemanha, Espanha, Reino Unido, Índia)
 - **Experiência Global Extensiva:** 15+ anos liderando equipes multiculturais distribuídas globalmente (2010-presente)
-- Alinhamento de demandas e requisitos, classificação de aplicações, estudos de viabilidade
+- Alinhamento de demandas e requisitos, classificação de aplicações
 - Gestão de releases, projetos e orçamentos
 - Implementação de melhorias de qualidade e mudanças técnicas
-- **Impacto:** Otimização de processos tecnológicos que afetam toda a organização e toda cadeia de clientes a nivel global.
+- **Impacto:** Otimização de processos tecnológicos para múltiplas subsidiárias europeias
 
 **PROJETOS ESPECÍFICOS ATOS:**
 
@@ -91,9 +96,8 @@ Profissional de TI com **mais de 25 anos de experiência** em desenvolvimento de
 - **Integração Corporativa:** Conectividade com sistemas empresariais da ATOS
 - **Gestão de Dados de Produto:** Centralização e padronização de informações de produtos organizacionais
 
-## **Flextopus (2018-Presente)** | Empresa de Consultoria e Desenvolvimento de Software
-
-**Projeto FLEX - Plataforma SaaS Especializada em Terapias Neuromotoras Infantis (2018-Presente):**
+**Projeto Paralelo - FLEX (2018-Presente):**
+**Plataforma SaaS Especializada em Terapias Neuromotoras Infantis**
 
 - **Visão e Necessidade Social:**
   - Sistema especializado para clínicas de crianças com necessidades neuromotoras (autismo, deficiências motoras)
@@ -151,9 +155,76 @@ Profissional de TI com **mais de 25 anos de experiência** em desenvolvimento de
   - Soluções Home Office com Azure VPN Gateway
   - Modernização de infraestrutura On-Premise para Azure
   - Website Serverless automatizado com Azure DevOps CI/CD
-  - Projeto final: Wiki gerenciada com Azure App Service (Docker) e PostgreSQL
+  - Projeto final: Wiki gerenciada com Azure App Service (Docker) e PostgreSQLni Leocadio - Senior Software Engineer & Technology Leader**
 
-## **2007-2018 (11 anos 5 meses)** | **Unify (Siemens Enterprise Communications)**
+**Documento preparado para petição EB-2 National Interest Waiver**
+
+---
+
+## 📋 Resumo Executivo
+
+Profissional de TI com **mais de 25 anos de experiência** em desenvolvimento de software, arquitetura de soluções e gestão de projetos tecnológicos. Especialista em sistemas distribuídos, cloud computing e engenharia de dados, com experiência internacional comprovada trabalhando remotamente do Brasil para empresas multinacionais na Europa e EUA.
+
+**Competências Principais:**
+- **Desenvolvimento Backend:** .NET (11 endorsements), C# (3 endorsements), Java (11 endorsements), Go Lang, Python
+- **Cloud Computing:** Azure, AWS Cloud Practitioner, Google Cloud Platform, Digital Ocean
+- **DevOps & Containerização:** Docker, Kubernetes
+- **Banco de Dados:** Microsoft SQL Server (14 endorsements), MySQL (11 endorsements), PostgreSQL, Oracle (4 endorsements)
+- **Frontend:** Angular, TypeScript, JavaScript (5 endorsements), HTML, CSS
+- **Metodologias:** Agile (Scrum), ITIL (13 endorsements), PMBoK, Six Sigma
+- **Arquitetura:** Microservices (1 endorsement), Distributed Systems, Solution Architecture, Enterprise Architecture
+- **Integração:** REST APIs, ESB Architecture, MuleSoft, RabbitMQ
+- **Ferramentas:** Git, SharePoint (10 endorsements), MS Reporting Services (6 endorsements)
+- **Gestão:** Project Management, IT Service Management (14 endorsements), Team Leadership (1 endorsement)
+- **Certificações:** PMP® Certified (PMI), Azure, AWS
+- **Idiomas:** Português (nativo), Inglês (profissional completo), Espanhol (intermediário)
+
+---
+
+## 🎯 Objetivos e Contribuições para o Interesse Nacional dos EUA
+
+Como Senior Software Engineer e líder tecnológico com expertise em arquiteturas distribuídas e cloud computing, minha experiência contribui diretamente para o avanço tecnológico dos EUA através de:
+
+- **Liderança Executiva e Estratégica:** Gestão de operações tecnológicas globais com reporte funcional ao CTO, coordenando iniciativas estratégicas de transformação digital em escala internacional
+- **Gerenciamento Global de Equipes:** 15+ anos liderando equipes multiculturais distribuídas (EUA, França, Alemanha, Reino Unido, Índia, Romênia, Bélgica, Áustria, Espanha), demonstrando capacidade de gestão internacional
+- **Arquitetura e Engenharia Avançada:** Desenvolvimento hands-on de soluções inovadoras (projeto FLEX) combinado com liderança estratégica de modernização tecnológica empresarial
+- **Inovação em Cloud Computing:** Desenvolvimento e implementação de soluções escaláveis em Azure, AWS e multi-cloud com impacto em operações globais
+- **Transformação Digital Corporativa:** Liderança de projetos globais de modernização tecnológica afetando múltiplas subsidiárias e departamentos internacionais
+- **Expertise Internacional de Alto Nível:** Experiência executiva trabalhando remotamente para empresas multinacionais europeias, gerenciando orçamentos e portfolios de projetos
+- **Mentoria e Desenvolvimento Estratégico:** Liderança técnica e desenvolvimento de talentos tecnológicos em ambiente corporativo global
+
+---
+
+## 📅 Timeline Cronológica da Carreira
+
+### 📚 Formação Acadêmica
+
+**2023-2025** | **Master of Business Administration (MBA) - Information Technology**  
+*Full Cycle*  
+Especialização em gestão estratégica de TI e liderança tecnológica
+
+**2012** | **PMP® Certification - Project Management Institute**  
+*PMI (Project Management Institute)*  
+Certificação internacional em gerenciamento de projetos
+
+**2000-2004** | **Bacharelado em Tecnologia da Informação**  
+*Universidade Positivo* | Curitiba, PR  
+Graduação em Tecnologia da Informação com foco em desenvolvimento de sistemas
+
+### 💼 Experiência Profissional
+
+**2018 - Presente (7 anos)** | **IT Application Manager**  
+*ATOS* | Trabalho remoto do Brasil para Europa  
+- Gestão de arquitetura e ciclo de vida de paisagem tecnológica para clientes europeus
+- Liderança de equipes multiculturais (EUA, França, Romênia, Bélgica, Áustria, Alemanha, Espanha, Reino Unido, Índia)
+- Alinhamento de demandas e requisitos, classificação de aplicações
+- Gestão de releases, projetos e orçamentos
+- Implementação de melhorias de qualidade e mudanças técnicas
+- **Performance Excepcional:** 7 anos de avaliações semestrais com notas consistentemente superiores (4-6/6)
+- **Reconhecimento:** Múltiplos anos "Exceeds Expectations" em avaliações formais de performance
+- **Impacto:** Otimização de processos tecnológicos para múltiplas subsidiárias europeias
+
+**2007-2018 (11 anos 5 meses)** | **Unify (Siemens Enterprise Communications)**
 
 ## IT Service Manager (2010-2018):
 - **Trabalho Global para Alemanha:** Atuação estritamente internacional, trabalhando do Brasil para operações globais da Siemens Enterprise na Alemanha
@@ -251,7 +322,7 @@ Profissional de TI com **mais de 25 anos de experiência** em desenvolvimento de
 - **Criticidade:** Fundamental para modernização e eficiência da cadeia produtiva
 - **Expertise Validada:** Business Process Management com certificações especializadas TIBCO
 
-## **2003-2007 (3 anos 11 meses)** | **Siemens**
+**2003-2007 (3 anos 11 meses)** | **Siemens**
 
 ## Software Engineer (2004-2007):
 - **Evolução Profissional:** Desenvolvimento como júnior (2004-2005), pleno (2005-2006) e sênior (2007)
@@ -316,10 +387,10 @@ Profissional de TI com **mais de 25 anos de experiência** em desenvolvimento de
 - Desenvolvimento web de aplicações para pedidos, agendamento e planejamento de produção
 - Integração com sistemas SAP e de rastreabilidade
 
-## **2002** | **Trainee - CELEPAR**  
+**2002** | **Trainee - CELEPAR**  
 Desenvolvimento e manutenção de portais web para organizações governamentais usando ASP, Java e SQL
 
-## **2001** | **Trainee - DATAVISI**  
+**2001** | **Trainee - DATAVISI**  
 Desenvolvimento de aplicações web para o grupo SUNDOWN usando ASP e SQL Server
 
 ### 🏆 Principais Realizações e Reconhecimentos
