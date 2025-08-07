@@ -391,6 +391,18 @@ Desenvolvimento de aplicações web para o grupo SUNDOWN usando ASP e SQL Server
 * **Reconhecimento sistemático:** 14 avaliações semestrais com performance exemplar
 * **Consistência excepcional:** Zero avaliações abaixo do padrão esperado em 7 anos
 
+**Formação Acadêmica:**
+
+* **Graduação em Sistemas de Informação** (2000-2004)
+* **TCC Inovador: Sistema de Atendimento Mobile para Restaurantes (2004)**
+  * **Projeto Pioneiro:** Desenvolvimento de sistema de pedidos via dispositivos móveis - tecnologia extremamente inovadora para a época
+  * **Sistema Operacional:** Windows CE 7 - uma das primeiras implementações comerciais em dispositivos handheld
+  * **Funcionalidades:** Coleta de pedidos diretamente na mesa com transmissão automática para a cozinha
+  * **Inovação Tecnológica:** Mobilidade em restaurantes quando celulares eram limitados e dispositivos móveis empresariais eram raros
+  * **Impacto:** Sistema completamente móvel e automatizado, revolucionário para o setor de alimentação em 2004
+  * **Trabalho em Equipe:** Projeto desenvolvido colaborativamente demonstrando liderança técnica desde a graduação
+  * **Visão Antecipada:** Identificação precoce do potencial da computação móvel, anos antes da popularização dos smartphones
+
 **Certificações Técnicas:**
 
 * **PMP® Certified** (Project Management Institute) - ID: 2391125E1
