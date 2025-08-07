@@ -85,6 +85,7 @@ Como Senior Software Engineer e líder técnico com expertise em arquiteturas di
 * **Melhorias Alcançadas:** Redução significativa de falhas, diminuição de incidentes, melhoria de processos
 * **Criticidade do Projeto:** Sistemas essenciais para operação de vendas global da ATOS
 * **Impacto nos Negócios:** Modernização de processos críticos que impactam fechamento de vendas e oportunidades
+* **Accolade 2024**
 
 **Global MuleSoft Standardization Project (2025-Presente):**
 
@@ -211,8 +212,8 @@ Como Senior Software Engineer e líder técnico com expertise em arquiteturas di
   * **Reescrita Completa:** Redesenvolvimento total da aplicação utilizando tecnologias avançadas para a época
   * **Stack Tecnológico Moderno:** Angular no frontend, Java APIs no backend, integração com plataformas enterprise
   * **Plataforma de Conteúdo:** Implementação do NUXEO como CMS e plataforma de desenvolvimento de APIs Java
-  * **Sistema de Catálogo:** Integração com AKVNEO para gestão de catálogo de serviços
-  * **Integração de Sistemas Complexa:** Desenvolvimento de integrações críticas entre AKVNEO e NUXEO
+  * **Sistema de Catálogo:** Integração com AKENEO para gestão de catálogo de serviços
+  * **Integração de Sistemas Complexa:** Desenvolvimento de integrações críticas entre AKENEO e NUXEO
   * **Gestão de Transição:** Coordenação complexa da migração sem interrupção de serviços críticos
   * **Liderança Técnica Dual:** Liderança simultânea de equipes de desenvolvimento (novo sistema) e operação (sistema legado)
   * **Criticidade Empresarial:** Projeto de suma importância e altamente crítico para continuidade dos negócios
